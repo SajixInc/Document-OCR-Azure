@@ -18,7 +18,7 @@ Click on the "Start free" or "Create account" button on the homepage.
 Once your account is created, you will be redirected to the Azure portal, 
 where you can start exploring and using various Azure services.
 
-<img src = "https://vivifyassets.s3.ap-south-1.amazonaws.com/azure14.png">
+<img width = "500" src = "https://vivifyassets.s3.ap-south-1.amazonaws.com/azure14.png">
 
 
 
@@ -26,7 +26,7 @@ where you can start exploring and using various Azure services.
 
 Now, we have to create storage account to store trained data.
 
-<img width= "500" src = "https://github.com/vivifyhealthcare/MLAI/assets/92711889/09c24aa4-29c7-4103-843a-3e35d5c8097b">
+<img width= "500" src = "https://vivifyassets.s3.ap-south-1.amazonaws.com/azure2.png">
 
 
 # Form Recognizer
@@ -37,19 +37,19 @@ you can use Form Recognizer to extract data fields such as names, addresses,
 dates, invoice numbers, and more. This can save time, reduce errors, and improve
 efficiency in various business processes.
 
-<img width= "500" src = "https://github.com/vivifyhealthcare/MLAI/assets/92711889/479fbc8f-840d-4e0e-b3a2-c527310fc02e">
+<img width= "500" src = "https://vivifyassets.s3.ap-south-1.amazonaws.com/azure3.png">
 
 Create your form recognizer
 
 Open your form recognizer and click on form recognizer studio(click on try it)
 
-<img width = "500" src = "https://github.com/vivifyhealthcare/MLAI/assets/92711889/a4809aff-a12d-4be1-b932-fac29fe5302a">
+<img width = "500" src = "https://vivifyassets.s3.ap-south-1.amazonaws.com/azure4.png">
 
 open custom models 
 
 Train custom models to classify documents and extract text, structure and fields from your forms or documents.
 
-<img width = "500" src = "https://github.com/vivifyhealthcare/MLAI/assets/92711889/5fce29d9-a934-4567-93a5-270ca6b0f860">
+<img width = "500" src = "https://vivifyassets.s3.ap-south-1.amazonaws.com/azure5.png">
 
 You need to create your project 
 
@@ -57,7 +57,7 @@ Upload minimum 5 pdf files from your local device and click on "Run Layout" for 
 
 To "Train" your pdfs you have to do label your pdfs, for labeling clik on "Draw Region".
 
-<img width = "500" src = "https://github.com/vivifyhealthcare/MLAI/assets/92711889/8de0dea3-4804-4cdd-84a3-aaa5ef2bc0ce">
+<img width = "500" src = "https://vivifyassets.s3.ap-south-1.amazonaws.com/azure6.png">
 
 Model has been created
 
@@ -65,7 +65,7 @@ Open model -> Click on test -> Upload pdfs --> Run Analyze
 
 You can see your output in "Result".
 
-<img width = "500" src = "https://github.com/vivifyhealthcare/MLAI/assets/92711889/1933b32f-95fb-4aef-99f1-99666292dc16">
+<img width = "500" src = "https://vivifyassets.s3.ap-south-1.amazonaws.com/azure7.png">
 
 Now download result --> import in database
 
