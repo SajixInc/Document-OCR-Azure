@@ -18,8 +18,7 @@ Click on the "Start free" or "Create account" button on the homepage.
 Once your account is created, you will be redirected to the Azure portal, 
 where you can start exploring and using various Azure services.
 
-
-<img width ="500" src = "https://github.com/vivifyhealthcare/MLAI/assets/92711889/2cdc372d-a20a-4b12-a66e-e8c6dd4976bc">
+<img src = "https://vivifyassets.s3.ap-south-1.amazonaws.com/azure14.png">
 
 
 
